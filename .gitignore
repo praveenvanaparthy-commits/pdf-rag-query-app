@@ -1,6 +1,9 @@
 venv/
-node_modules/
-.env
 __pycache__/
+*.pyc
+.env
+
+node_modules/
 dist/
-uploads/
+build/
+backend/uploads/
